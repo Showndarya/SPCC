@@ -1,7 +1,7 @@
 # System Programming and Compiler Construction Programs
 ------------------------------------------
 
-This repository contains some of the programs written for the course **System Programming and Compiler Construction** in **java :computer:** 
+This repository contains some of the programs written for the course **System Programming and Compiler Construction** in **Java :computer:** 
 
 ## Contents
 ------------------------------------------
