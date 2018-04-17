@@ -12,4 +12,4 @@ This repository contains some of the programs written for the course **System Pr
 * [Recursive Decent Parser](./Recursive_Decent_Parser)
 * [Operator Precedence Parser](./Operator_Precedence_Parser)
 * [Static Library](./Static_Library)
-* [Prasers using Lex and Yacc](./Parsers)
+* [Parsers using Lex and Yacc](./Parsers)
