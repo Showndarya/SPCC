@@ -15,3 +15,4 @@ This repository contains some of the programs written for the course **System Pr
 * [Parsers using Lex and Yacc](./Parsers)
 * [First and Follow Sets for LL(1) parser](./First_and_Follow)
 * [Code Generation of expressions with basic arithmetic operators](./Code_Generation)
+* [Elimination of Left Recursion](./Elimination_of_Left_Recursion)
